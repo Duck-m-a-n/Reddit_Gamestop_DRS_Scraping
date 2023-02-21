@@ -3,7 +3,7 @@ scraping r/Superstonk to calculate Direct Registered Share Numbers
 
 **Acknowledgements**:
 
-This code was created by Roid_Rage_Smurf and was inspired by the Superstonk subreddit community. Special thanks to the Pushshift API team for providing the data used in this project.
+This code was created by searching for Roid_Rage_Smurf comment history and pulling DRS numbers. It was inspired by the Superstonk subreddit community. Special thanks to the Pushshift API team for providing the data used in this project.
 
 This repository contains Python code for analyzing and visualizing stock market data related to the Superstonk subreddit. The code uses the Pushshift API to extract comments related to a specific query and author from the Superstonk subreddit, and analyzes and visualizes the extracted data.
 
